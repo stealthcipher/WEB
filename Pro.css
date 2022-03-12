@@ -1,0 +1,37 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(21, 68, 3);
+    color: blanchedalmond;
+    border: 100px solid rgb(125, 231, 25);
+    border-top: 0px ;
+    border-bottom: 0px ;
+    margin: 0px ;
+    text-align: center;
+    
+}
+p{
+    padding-top: 5%;
+}
+ 
+form{
+    font-size:  1.2em;
+    
+}
+
+#Sub{
+    background-color: greenyellow ;
+    height: 50px;
+    width: 120px;
+    margin-top: 10px;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+h1{
+    color: black;
+    background-color: greenyellow;
+    border-radius: 50px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+
